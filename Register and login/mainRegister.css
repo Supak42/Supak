@@ -1,0 +1,23 @@
+body{
+    background-color:#8e52a0;
+}
+legend{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(51, 51, 51);
+}
+#Require{
+    color: rgb(255, 0, 51);
+}
+#myForm{
+    font-size: 20pt;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color:antiquewhite;
+}
+#Button{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
